@@ -36,7 +36,7 @@ $(document).ready(function(){
 		meny.addEventListener( 'open', function() {
 			$('.notes').fadeOut(800);
 		}); 
-		
+		 
 		Reveal.initialize({
 			controls: true,
 			progress: false,
